@@ -58,7 +58,7 @@ public class Market {
         	System.out.println("LUtfen " + gunler.get(gunIndex) + " gunu icin elde edilen kazancc giriniz: "  );
         	kazanc=scan.nextDouble();
 			
-			gunlukKazanc.add(kazanc);  // her d�ng�de s�ras� ile ayn� indexe atacak
+			gunlukKazanc.add(kazanc);  // her dungude sirasi ile ayni indexe atacak
         	
 			System.out.println("" + gunler.get(gunIndex)+" gunu icin elde edilen kazanc: " + kazanc+"$\n" );
 			
